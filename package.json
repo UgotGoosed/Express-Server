@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Express Server",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UgotGoosed/Express-Server.git"
+  },
+  "author": "Michael Ganschow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UgotGoosed/Express-Server/issues"
+  },
+  "homepage": "https://github.com/UgotGoosed/Express-Server#readme"
+}
